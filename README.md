@@ -45,8 +45,8 @@ A Recent Computer Engineering Graduate
 
 ## 📊 Stats
 <div>
- <img height="125em" src="https://github-readme-stats.vercel.app/api?username=Richie735&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=fdbc0a&text_color=d7d7d7&icon_color=fdbc0a"/>
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Richie735&stroke=ffffff&theme=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Richie735&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=fdbc0a&text_color=d7d7d7&icon_color=fdbc0a"/>
+ <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Richie735&stroke=ffffff&theme=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richie735&theme=transparent&hide_border=true&hide_title=true&title_color=ffffff&text_color=ffffff"/>
 </div>
 
