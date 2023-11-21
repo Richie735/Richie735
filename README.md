@@ -7,6 +7,7 @@ A Recent Computer Engineering Graduate
 
 -   🌍  I'm based in Portugal
 -   🖥️  See [My Webfolio](http://richie735.github.io/web-folio/)
+-   💬  Reach out on [Linkedin](https://www.linkedin.com/in/ricardopereira735/)
 
 
 ### 🛠️ Technologies and Tools
